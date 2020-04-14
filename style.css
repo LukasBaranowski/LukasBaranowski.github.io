@@ -916,7 +916,7 @@
 
 @media (max-width: 991px) {
     .text {
-        color: rgb(110, 110, 110);
+        color: #fff;
         font-size: 14px;
         letter-spacing: .8px;
         font-weight: 300;
