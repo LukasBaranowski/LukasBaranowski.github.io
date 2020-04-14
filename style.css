@@ -226,7 +226,7 @@
     color: #fff;
     font-size: 16px;
     letter-spacing: 1px;
-    font-weight: 300;
+    font-weight: 400;
 }
 .about .imageBx {
     background: url(trooper\ mask.jpg);
@@ -916,10 +916,10 @@
 
 @media (max-width: 991px) {
     .text {
-        color: rgb(165, 165, 165);
+        color: rgb(110, 110, 110);
         font-size: 14px;
-        letter-spacing: .7px;
-        font-weight: 200;
+        letter-spacing: .8px;
+        font-weight: 300;
     } 
     .banner {
         padding: 30px;
