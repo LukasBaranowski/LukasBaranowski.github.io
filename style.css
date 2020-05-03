@@ -53,7 +53,7 @@
 	align-items: center;
 	display: flex;
 	position: relative;
-	justify-content: space-around;
+	justify-content: space-evenly;
 }
 .menu ul {
 	margin: 0px;
