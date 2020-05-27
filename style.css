@@ -514,6 +514,17 @@
 	flex-wrap: wrap;
 	align-items: center;
 }
+.boxContainer .box {
+	position: relative;
+	width: 210px;
+	height: 120px;
+	background: #000;
+	margin: 0 0 30px 20px;
+	box-sizing: border-box;
+	display: inline-block;
+    cursor: pointer;
+    top: 40px;
+}
 .boxContainer .box .imgBox {
 	position: relative;
 	overflow: hidden;
