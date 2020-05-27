@@ -1064,9 +1064,9 @@
     /*All content*/
     .allContent {
         padding: 50px;
-        padding-top: 150px;
         justify-content: center;
         flex-direction: column;
+	height: 100%;
     }
     .allContent .contentBx {
         text-align: center;
