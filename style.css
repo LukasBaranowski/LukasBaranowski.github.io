@@ -478,21 +478,17 @@
 
 /*ALL CONTENT BOXES*/
 .allContent {
-    position: relative;
     background: transparent;
     /*background-image: linear-gradient(45deg, #162c3b, #076585);*/
     width: 100%;
-    padding: 50px;
-    display: grid;
-    justify-content: center;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
     height: 100vh;
-    grid-template-columns: repeat(2, 1fr);
-    left: 50%;
-    transform: translateX(-50%);
 }
 .allContent .contentBx {
-    max-width: 700px;
+    max-width: 800px;
 }
 /*.allContent .imageBx {
     max-width: 250px;
@@ -502,7 +498,7 @@
 }*/
 /*Container boxes*/
 .boxContainer {
-	width: 600px;
+	width: 900px;
 	/*min-height: 500px;
 	background: black;
 	*/
